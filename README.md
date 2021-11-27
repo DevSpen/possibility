@@ -16,7 +16,7 @@ possibility({
 }) // "bronze" | "silver" | "gold"
 
 possibility({
-    fail: 60.4, // 60.4
+    fail: 60.4, // 60.4%
     succeed: 39.5, 
     jackpot: 0.1
 }) "fail" | "scceed" | "jackpot"
